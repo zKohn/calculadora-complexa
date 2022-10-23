@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 3px;
+    color: white;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 28px;
+    user-select: none;
+}
+body{
+    max-width: 100vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    background: rgba(5, 5, 5, 0.912);
+    gap: 60px;
+}
+section.home {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+section.matriz {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+div.matrizA, div.matrizB{
+    width: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center; 
+}
+div.lado{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+div.info {
+    text-decoration: underline solid white;
+}
+.matrizA #linha, .matrizB #linha{
+    width: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    margin: -3px; 
+}
+.matrizA #coluna, .matrizB #coluna{
+    display: flex;
+    max-width: 90%;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    border: 3px solid rgb(11, 11, 12);
+}
+input{
+    border: none;
+    text-align: center;
+    font-size: clamp(10px, 5vw, 20px);
+    background: rgba(12, 11, 11, 0.468);
+    max-width: 85px;
+    height: 50px;
+}
+button{
+    border: none;
+    color: rgb(255,255,255);
+    padding: 5px;
+    background:rgb(250, 183, 0);
+    border-radius: 3px;
+}
+a{
+    text-decoration: none;
+}
+select{
+    background: rgba(5, 5, 5, 0);
+    border: none;
+}
+option{
+    background-color: rgba(5, 5, 5, 0);
+    color: black;
+    font-size: 20px;
+}
+div.valores{
+    background-color: rgb(70, 70, 70);
+    border: 3px solid rgb(33, 33, 33);
+    padding: 18px;
+    box-shadow: inset 4px 3px 2px black;
+}
+div.valores div{
+    user-select: text;
+}
+@media screen and (max-width: 800px) {
+    *{
+        font-size: 25px;
+    }
+    #coluna{
+        max-width: 90%;
+        padding: 2px;
+    }
+    input{
+        width: 65px;
+        height: 50px;
+    }
+}
+@media screen and (max-width: 450px) {
+    *{
+        font-size: 18px;
+    }
+    #coluna{
+        max-width: 90%;
+        padding: 2px;
+    }
+    input{
+        width: 35px;
+        height: 33px;
+    }
+}
+@media screen and (max-width: 350px) {
+    *{
+        font-size: 15px;
+    }
+    body{
+        gap: 30px;
+    }
+    #coluna{
+        max-width: 90%;
+        border: 1px solid black;
+        padding: 0px;
+    }
+    input{
+        max-width: 25px;
+        height: 37px;
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "calculadora-complexa",
+  "version": "1.0.0",
+  "description": "Calculadora complexa para cálculos de sistemas complexos em engenharias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zKohn/Calculadora-Complexa.git"
+  },
+  "keywords": [
+    "complex",
+    "calculus",
+    "engineering",
+    "javascript",
+    "linear-system"
+  ],
+  "author": "João Vitor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zKohn/Calculadora-Complexa/issues"
+  },
+  "homepage": "https://github.com/zKohn/Calculadora-Complexa#readme"
+}
