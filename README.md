@@ -46,8 +46,9 @@
 <details>
 <summary><h2>Algoritmo matemático aplicado</h2></summary>
 <h3>Para resolver os sistemas de matrizes, foi aplicada a <em>Regra de Cramer</em></h3>
-<p> A Regra de Cramer consiste em calcular n+1 determinantes, para uma matriz n x n modificando a matriz de coeficientes. </p>
+<p> A Regra de Cramer consiste em calcular n+1 determinantes para uma matriz n x n, modificando a matriz de coeficientes A. </p>
 <p> Dividindo cada determinante de matriz modificada pelo determinante da matriz original, obtém-se os valores que resolvem o sistema. </p>
 <p> A regra é baseada em estudos de Álgebra Linear e resolução de Sistemas Lineares, e aplicada sobre sistemas de números reais. </p>
 <p> Um grande passo deste algoritmo foi aplicar os conceitos base para a regra de maneira que possam ser utilizados em sistemas com números complexos. </p>
+<p> Vale lembrar que o algoritmo aplicado é original do autor. </p>
 </details>
