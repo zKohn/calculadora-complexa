@@ -4,7 +4,8 @@
 
 <details>
 <summary><h2>Descrição</h2></summary>
-  Calculadora Complexa para cálculos de engenharia. Foi criada com intuito de ajudar estudantes da engenharia - em especial da engenharia elétrica - a resolver sistemas numéricos lineares que envolvem números complexos. Tendo em vista a grande recorrência do uso de sistemas complexos, esta calculadora visa facilitar a resolução de atividades, problemas e trabalhos do curso. O publico alvo deste projeto são alunos de engenharias, matemática, física ou áreas afins em qualquer nível de graduação e entusiastas, programadores.
+<p> Calculadora Complexa para cálculos de engenharia. Foi criada com intuito de ajudar estudantes da engenharia - em especial da engenharia elétrica - a resolver sistemas numéricos lineares que envolvem números complexos.</p>
+<p>Tendo em vista a grande recorrência do uso de sistemas complexos, esta calculadora visa facilitar a resolução de atividades, problemas e trabalhos do curso. O publico alvo deste projeto são alunos de engenharias, matemática, física ou áreas afins em qualquer nível de graduação e entusiastas, programadores.</p>
 </details>
 <details>
 <summary><h2>Tutorial de uso</h2></summary>
