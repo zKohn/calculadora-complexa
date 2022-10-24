@@ -33,4 +33,13 @@
 <p> Utilize <code>tab</code> para selecionar o próximo elemento e <code>shift</code>+<code>tab</code> para retornar ao anterior. </p>
 <p> Pressionar <code>enter</code> executa um botão ou abre uma seleção de opções. </p>
 <p> Utilize <code>enter</code> para selecionar uma opção, navegando por elas com as <code>setas</code> do teclado. </p>
+<p> Nessa utilização, é necessário apertar duas vezes <code>tab</code> para passar dos botões para outros elementos. Pressionando pela segunda vez e apertando <code>enter</code> irá navegar até o próximo <em>tópico</em>. </p>
+</details>
+<details>
+<summary><h2>Tópicos</h2></summary>
+<h3>Existem três tópicos base no programa:</h3>
+<p> 1. O tópico de escolha do #tipo das matrizes; </p>
+<p> 2. O tópico de digitação das matrizes, #matriz. </p>
+<p> 3. O tópico de #resultados </p>
+<p> Clicar nos botões de envio redireciona para o tópico seguinte na página.</p>
 </details>
