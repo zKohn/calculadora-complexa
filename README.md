@@ -32,6 +32,4 @@
 <p> Utilize <code>tab</code> ´para selecionar o próximo elemento e <code>shift</code>+<code>tab</code> para retornar ao anterior. </p>
 <p> Pressionar <code>enter</enter> executa um botão ou abre uma seleção de opções. </p>
 <p> Utilize <code>enter</code> para selecionar uma opção, navegando por elas com as <code>setas</code> do teclado. </p>
-
-
 </details>
