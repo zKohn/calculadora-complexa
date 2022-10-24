@@ -16,6 +16,38 @@ body{
     background: rgba(5, 5, 5, 0.912);
     gap: 60px;
 }
+header{
+    width: 96vw;
+    height: 13vh;
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -12px;
+    padding: 9px 0px 0px 0px;
+    border-bottom: 1px solid rgb(134, 134, 134);
+}
+header > div{
+    display: flex;
+    flex-flow: column nowrap;
+}
+header > div > div.titulo{
+    font-weight: 800;
+}
+img.logo{
+    width: 59px;
+    height: 59px;
+    filter: grayscale(0.8);
+}
+img[alt~="github"]{
+    filter:contrast(0); 
+}
+img.logo:hover{
+    filter: drop-shadow(0px 0px 0.1rem rgb(183, 183, 183));
+}
+img[alt~="github"]:hover{
+    filter: brightness(100); 
+}
 section.home {
     display: flex;
     flex-flow: column nowrap;
