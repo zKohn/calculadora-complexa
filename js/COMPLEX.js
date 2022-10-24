@@ -12,7 +12,7 @@
 *   
 *       import { COMPLEXO, comp, pi } from './COMPLEX.js';
 *
-*   REPOSITÓRIO DO CRIADOR: https://github.com/zKohn
+*   GITHUB DO CRIADOR: https://github.com/zKohn
 */
 
 export const pi = 3.141592653589793;
