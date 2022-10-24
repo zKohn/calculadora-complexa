@@ -15,6 +15,14 @@
 <p> 3) Envie as matrizes, aguarde, e veja os resultados nas variáveis X mostradas ordenadamente. É possível selecionar um número de casas decimais para os resultados, para isso basta selecionar <em>Padrão</em>, escolher e clicar no botão de enviar. </p>
 </details>
 <details>
+<summary><h2>Passos do programa, resumo do uso</h2></summary>
+<h3>Existem três passos base no programa:</h3>
+<p> 1. O passo de escolha do #tipo das matrizes; </p>
+<p> 2. O passo de digitação das matrizes, #matriz. </p>
+<p> 3. O passo de mostragem de #resultados </p>
+<p> Clicar nos botões de envio redireciona para o tópico seguinte na página.</p>
+</details>
+<details>
 <summary><h2>Digitação dos números</h2></summary>
 <h3> Formas possíveis de digitação: </h3>
 
@@ -36,10 +44,10 @@
 <p> Nessa utilização, é necessário apertar duas vezes <code>tab</code> para passar dos botões para outros elementos. Pressionando pela segunda vez e apertando <code>enter</code> irá navegar até o próximo <em>passo</em>. </p>
 </details>
 <details>
-<summary><h2>Passos do programa</h2></summary>
-<h3>Existem três passos base no programa:</h3>
-<p> 1. O passo de escolha do #tipo das matrizes; </p>
-<p> 2. O passo de digitação das matrizes, #matriz. </p>
-<p> 3. O passo de mostragem de #resultados </p>
-<p> Clicar nos botões de envio redireciona para o tópico seguinte na página.</p>
+<summary><h2>Algoritmo matemático aplicado</h2></summary>
+<h3>Para resolver os sistemas de matrizes, foi aplicada a <em>Regra de Cramer</em></h3>
+<p> A Regra de Cramer consiste em calcular n+1 determinantes, para uma matriz n x n modificando a matriz de coeficientes. </p>
+<p> Dividindo cada determinante de matriz modificada pelo determinante da matriz original, obtém-se os valores que resolvem o sistema. </p>
+<p> A regra é baseada em estudos de Álgebra Linear e resolução de Sistemas Lineares, e aplicada sobre sistemas de números reais. </p>
+<p> Um grande passo deste algoritmo foi aplicar os conceitos base para a regra de maneira que possam ser utilizados em sistemas com números complexos. </p>
 </details>
