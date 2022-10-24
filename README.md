@@ -1,6 +1,6 @@
 # Calculadora Complexa
 
-# TUTORIAL DE USO
+# INFORMAÇÕES ACERCA DO PROJETO
 
 <details>
 <summary><h2>Descrição</h2></summary>
