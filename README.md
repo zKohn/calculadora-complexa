@@ -1,6 +1,6 @@
 # Calculadora-Complexa
 
-# PORTUGUÊS
+# TUTORIAL DE USO
 
 <details>
 <summary><h2>Descrição</h2></summary>
