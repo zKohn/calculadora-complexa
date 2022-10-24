@@ -1,7 +1,7 @@
 {
   "name": "calculadora-complexa",
   "version": "1.0.0",
-  "description": "Calculadora complexa para cálculos de sistemas complexos em engenharias",
+  "description": "Calculadora complexa para resolução de sistemas complexos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
