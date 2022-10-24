@@ -31,8 +31,6 @@
 <summary><h2>Dicas computador</h2></summary>
 <h3>Além de utilizar um mouse para navegar até um elemento e clicar sobre ele, também é possível utilizar o teclado.</h3>
 <p> Utilize <code>tab</code> ´para selecionar o próximo elemento e <code>shift</code>+<code>tab</code> para retornar ao anterior. </p>
-<p> Pressionar <code>enter</enter> executa um botão ou abre uma seleção de opções. </p>
+<p> Pressionar <code>enter</code> executa um botão ou abre uma seleção de opções. </p>
 <p> Utilize <code>enter</code> para selecionar uma opção, navegando por elas com as <code>setas</code> do teclado. </p>
 </details>
-
-# FIM!
