@@ -30,9 +30,9 @@
 |-----:|------------|---------|
 | Positivo | + (opcional) | +83 ou 83 |
 | Negativo | - | -15 |
-| Decimal | . ou , | 1,92 ou 1.92 |
+| Decimal | . | 1.92 |
 | Potência de 10 | e[expoente]| 5e-2 = 0.05 |
-| Misturando |  | -500,2e-3 = -0.5002 |
+| Misturando |  | -500.2e-3 = -0.5002 |
 
 </details>
 <details>
